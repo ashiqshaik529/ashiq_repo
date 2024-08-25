@@ -7,7 +7,3 @@ eureka:
     fetch-registry: false
   server:
     enable-self-preservation: false
-
-spring:
-  application:
-    name: eureka-server
